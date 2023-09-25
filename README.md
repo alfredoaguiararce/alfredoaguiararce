@@ -7,7 +7,7 @@
 - 👨‍🔬 Research Assistant (AI/Robotics) | [Instituto Tecnologico de Tepic] (January 2021- January 2022)
     - Worked as a research assistant in the field of artificial intelligence, specifically focusing on recurrent neural networks.
     - Developed projects related to robotics using algorithms like Recurrent High Order Neural Networks (RHONN), primarily implemented in Python.
-- 👨‍💻 Backend Developer | [Company Name] (June 2022 - Present)
+- 👨‍💻 Backend Developer | [MX GLOBAL SOLUTIONS] (June 2022 - Present)
     - Currently working as a backend developer, specializing in technologies such as C# ASP.NET, Docker, Node.js, TypeScript, and JavaScript.
     - Also involved in frontend tasks utilizing Angular.
 
