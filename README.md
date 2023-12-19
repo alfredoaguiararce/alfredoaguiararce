@@ -2,14 +2,17 @@
 
 ,🤖 mechatronics engineer turned 👨‍💻 backend developer. With a strong background in artificial intelligence, particularly recurrent neural networks, I've honed my skills in developing cutting-edge projects that blend robotics and AI. 🚀 I've worked extensively with algorithms like Recurrent High Order Neural Networks (RHONN), primarily using Python as my go-to language.
 
+Currently, I work as a Semi-Senior .NET Developer at DXC Technology, actively contributing to a key project in collaboration with DXC and Quality & Knowledge on IT services for Toyota. I specialize in .NET/Angular development and am dedicated to the team's success. Additionally, I hold certifications in Git, GitHub, Python, and probabilistic thinking, which enhance my skills and knowledge. I am interested in the field of artificial intelligence and emerging technologies such as blockchain. I am a diligent, proactive, and adaptable individual who thrives in new work environments. My goal is to continue learning and growing professionally in the fields of programming and engineering.
+
 ## **Experience**
 
 - 👨‍🔬 Research Assistant (AI/Robotics) | [Instituto Tecnologico de Tepic] (January 2021- January 2022)
     - Worked as a research assistant in the field of artificial intelligence, specifically focusing on recurrent neural networks.
     - Developed projects related to robotics using algorithms like Recurrent High Order Neural Networks (RHONN), primarily implemented in Python.
-- 👨‍💻 Backend Developer | [MX GLOBAL SOLUTIONS] (June 2022 - Present)
+- 👨‍💻 Backend Developer | [MX GLOBAL SOLUTIONS] (June 2022 - Dec 2023)
     - Currently working as a backend developer, specializing in technologies such as C# ASP.NET, Docker, Node.js, TypeScript, and JavaScript.
     - Also involved in frontend tasks utilizing Angular.
+- 👨‍💻 Semi-Senior .NET Developer | [Toyota project with DXC and Quality & Knowledge (Q&K)] (Dec 2023 - actually)
 
 ## **Side Projects**
 
